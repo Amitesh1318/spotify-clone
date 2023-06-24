@@ -30,7 +30,7 @@ const Input = forwardRef<HTMLInputElement, InputProps>(({
                 diabled:opacity-50
                 focus:outline-none
             `,
-                classname
+                className
             )}
             disabled={disabled}
             ref={ref}
